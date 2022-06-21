@@ -17,7 +17,7 @@ $ python3 Practice02.py k
 ```
 * Example: 
 ```
-$ python3 Practice02.py 5
+$ python3 Practice02.py 8
 ```
 
 #### Output
